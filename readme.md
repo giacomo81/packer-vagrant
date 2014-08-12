@@ -2,12 +2,13 @@
 
 Packer Vagrant is a project that automates the creation of your Vagrant base box images for Oracle VirtualBox. Writing Chef cookbooks requires much testing, and utilizing vagrant is a efficient fast method to ensure you are testing each run from a clean state.
 
-*_More templates are to be commited soon!_*
+*More templates are to be commited soon!*
 
 ###Prerequisites
 
 * Download and install [Packer](http://packer.io) and then do a `git clone git@github.com:giacomo81/packer-vagrant.git`.
 * Download and install [Vagrant](http://www.vagrantup.com).
+* Download and install [VirtualBox](http://www.virtualbox.org)
 
 ###Execute Packer
 
