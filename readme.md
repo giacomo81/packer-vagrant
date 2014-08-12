@@ -2,7 +2,7 @@
 
 Packer Vagrant is a project that automates the creation of your Vagrant base box images for Oracle VirtualBox. Writing Chef cookbooks requires much testing, and utilizing vagrant is a efficient fast method to ensure you are testing each run from a clean state.
 
-*More templates are to be commited soon!*
+**_More templates are to be commited soon!_**
 
 ###Prerequisites
 
