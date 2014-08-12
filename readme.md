@@ -4,8 +4,8 @@ Packer Vagrant is a project that automates the creation of your Vagrant base box
 
 ###Prerequisites
 
-Download and install [Packer](http://packer.io) and then do a `git clone git@github.com:giacomo81/packer-vagrant.git`.
-Download and install [Vagrant](http://www.vagrantup.com).
+* Download and install [Packer](http://packer.io) and then do a `git clone git@github.com:giacomo81/packer-vagrant.git`.
+* Download and install [Vagrant](http://www.vagrantup.com).
 
 ###Execute Packer
 
