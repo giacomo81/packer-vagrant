@@ -10,11 +10,11 @@ Download and install [Packer](http://packer.io) and then do a `git clone git@git
 
 From the templates directory in the project execute the Packer Build    
 
-    $ packer build centos6.5-x86_64.json
+      packer build centos6.5-x86_64.json
 
 Vagrant base boxes will export to the boxes directory
 
-    $ cd packer-vagrant/boxes
+      cd packer-vagrant/boxes
 
 
 
