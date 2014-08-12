@@ -24,5 +24,5 @@ Vagrant base boxes will export to the boxes directory
 
       vagrant box add centos6.5 packer-vagrant/boxes/virtualbox-packer-centos-6.5-x86_64.box
 
-This repository can be used in conjustion with the vagrant-chef project [Vagrant-Chef](https://github.com/giacomo81/vagrant-chef)
+This repository can be used in conjustion with the [Vagrant-Chef](https://github.com/giacomo81/vagrant-chef) project.
 
